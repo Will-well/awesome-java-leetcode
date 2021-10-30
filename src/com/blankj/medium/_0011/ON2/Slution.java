@@ -1,6 +1,7 @@
-package _11;
+package com.blankj.medium._0011.ON2;
 
 /**
+ * 暴力求解
  * @author weir
  */
 public class Slution {
