@@ -26,4 +26,4 @@ public class Solution {
         System.out.println(solution.maxArea(new int[]{1, 2, 4, 3})); // 4
         System.out.println(solution.maxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));// 49
     }
-}
+}2
